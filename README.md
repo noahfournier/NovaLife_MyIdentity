@@ -1,4 +1,5 @@
-# NovaLife_MyIdentity
-Test 
+# Plugin MyIdentity
+Ce plugin pour Nova Life permet de voir sa carte d'identité et la montrer au joueur le plus proche de soi.
 
-# NovaLife_MyIdentity#titre
+# Table des matières
+- test
